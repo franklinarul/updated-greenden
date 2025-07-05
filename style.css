@@ -4,7 +4,7 @@
 }
 
 .image{
-    background-image: url('image/home-hero-bg.jpg');
+    background-image: url('home-hero-bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -19,7 +19,7 @@
     pointer-events: none;
 } */
 .image2{
-    background-image: url('image/banner-img1.jpg');
+    background-image: url('banner-img1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
