@@ -92,7 +92,7 @@ padding-bottom: 130px
 }
 
 .bgimg{
-    background-image: url('image/banner-img1.jpg');
+    background-image: url('banner-img1.jpg');
      background-repeat: no-repeat;
     background-size: cover;
     margin-top: 70px;
@@ -175,7 +175,7 @@ padding-bottom: 130px
 }
 
 .bgimg2{
-    background-image: url('image/banner-img2.jpg');
+    background-image: url('banner-img2.jpg');
      background-repeat: no-repeat;
     background-size: cover;
     margin-top: 70px;
