@@ -92,14 +92,14 @@ padding-bottom: 130px
 }
 
 .bgimg{
-    background-image: url('banner-img1.jpg');
+    background-image: url('image/banner-img1.jpg');
      background-repeat: no-repeat;
     background-size: cover;
     margin-top: 70px;
     height: 350px;
     position: relative;
 }
-.bgimg::before{
+.bgimg::after{
     content: "";
     position: absolute;
     top: 0;
@@ -110,7 +110,7 @@ padding-bottom: 130px
     pointer-events: none;
 
 }
-.bgimg2::before{
+.bgimg2::after{
     content: "";
     position: absolute;
     top: 0;
@@ -175,7 +175,7 @@ padding-bottom: 130px
 }
 
 .bgimg2{
-    background-image: url('banner-img2.jpg');
+    background-image: url('image/banner-img2.jpg');
      background-repeat: no-repeat;
     background-size: cover;
     margin-top: 70px;
